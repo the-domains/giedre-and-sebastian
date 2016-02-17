@@ -1,0 +1,28 @@
+name: 'Giedre & Sebastian'
+favicon: null
+layout_spectrum: 0.7372948927804828
+typography_spectrum: 0.5190085843205452
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8412718675099313
+  lightness: 0.5401622406207025
+  saturation: 0.5989430651534349
+  rhythmicContrast: 0.5444685185793787
+purpose: []
