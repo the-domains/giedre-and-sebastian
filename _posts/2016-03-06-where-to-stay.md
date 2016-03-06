@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T20:54:45.416Z'
-dateModified: '2016-03-06T20:49:37.685Z'
+datePublished: '2016-03-06T21:13:50.238Z'
+dateModified: '2016-03-06T21:13:00.065Z'
 title: Where to stay?
 author: []
+sourcePath: _posts/2016-03-06-where-to-stay.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-06-where-to-stay.md
-published: true
 url: where-to-stay/index.html
 _type: Article
 
@@ -45,9 +45,9 @@ _--_ Double room: 94,50\. Breakfast included.
 
 To book enter a discount code: @GS  or click here: [https://booking.edreamhotels.com/lt/Booking/available-rooms/client/ambertonhotels-vilnius/hotels/105/checkin/29.07.2016/checkout/30.07.2016/rooms/1/adults/1/children/0/code/@GS][3]
 
-**[www.comforthotel.lt][4]**
+**[www.comforthotel.lt][4] - **
 
-Other options:
+**Other options:**
 
 [http://www.skapoapartments.lt/][5] Prices from 60-70 euro.
 
