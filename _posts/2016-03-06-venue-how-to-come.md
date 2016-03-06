@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T21:05:37.863Z'
-dateModified: '2016-03-06T21:05:18.577Z'
+datePublished: '2016-03-06T21:14:05.700Z'
+dateModified: '2016-03-06T21:06:34.406Z'
 title: Venue- how to come
 author: []
 sourcePath: _posts/2016-03-06-venue-how-to-come.md
@@ -22,6 +22,8 @@ url: venue-how-to-come/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a69f345e-fe8c-4070-9bab-482904fe3805.jpg)
+
 ****
 
 **Driving directions**
@@ -37,4 +39,3 @@ By taxi: Europos Parkas, Joneikiskiu k., 15148
 Vilnius r., LITHUANIA takes around 20min to drive. 
 
 Taxi numbers:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a69f345e-fe8c-4070-9bab-482904fe3805.jpg)
