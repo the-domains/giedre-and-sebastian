@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T21:14:05.700Z'
-dateModified: '2016-03-06T21:06:34.406Z'
+datePublished: '2016-03-07T16:08:46.930Z'
+dateModified: '2016-03-07T16:08:38.248Z'
 title: Venue- how to come
 author: []
 sourcePath: _posts/2016-03-06-venue-how-to-come.md
@@ -22,7 +22,7 @@ url: venue-how-to-come/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a69f345e-fe8c-4070-9bab-482904fe3805.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9b5576f17bac1b62513b444dca29f52652f935b.jpg)
 
 ****
 
