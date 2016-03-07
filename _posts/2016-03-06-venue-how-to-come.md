@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T16:08:46.930Z'
-dateModified: '2016-03-07T16:08:38.248Z'
+datePublished: '2016-03-07T20:10:22.188Z'
+dateModified: '2016-03-07T20:10:19.075Z'
 title: Venue- how to come
 author: []
 sourcePath: _posts/2016-03-06-venue-how-to-come.md
@@ -38,4 +38,10 @@ for EUROPOS PARKAS.
 By taxi: Europos Parkas, Joneikiskiu k., 15148 
 Vilnius r., LITHUANIA takes around 20min to drive. 
 
-Taxi numbers:
+The fare should not be more than 20 Euros from the city centre. 
+
+Taxi contact:
+
+**A2B (Green Taxi):** 1666 or +370 626 66667\. You can pay with card in this Taxi. 
+
+If you use other taxies you might have to pay with cash.
