@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T19:20:27.117Z'
-dateModified: '2016-03-07T19:19:55.015Z'
+datePublished: '2016-03-07T19:39:10.889Z'
+dateModified: '2016-03-07T19:39:00.352Z'
 title: Where to stay?
 author: []
 sourcePath: _posts/2016-03-06-where-to-stay.md
@@ -24,18 +24,28 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b3aec04-b489-4e53-81f5-6679e0f8b603.jpg)
 
-I got agreement with 3 hotels that they will give discount for us: Here comes the list and booking codes
+We reccomend to stay in the city centre. The hotels we have listed below located in the centre of Vilnius and they have an overall good standard.
 
-**[Shakespeare hotel][0]:  **
+We have agreements with 3 hotels that they will give discount for you if you use the given discount code when booking. You can also use sites like www.booking.com to compare the prices.
+
+**[www.comforthotel.lt -][0] new hotel in the city. 15min walk to the Vilnius Cathedral.**
+
+Single rooms 50 EUR including breakfast.
+
+Double room 57 per night including breakfast.
+
+Too book you must use the following discount code: 
+
+**[Shakespeare hotel][1] - classical hotel located in the old town.**
 
 -Business class room: 122 Eur for 1 nigt/ If you will stay longer than 1 day price will be 114 Eur. Breakfast included.
 
 -Superior room:  139
 Eur 1night/ if 2 and more nigths 125 Eur. Breakfast included.
 
-To book send email to [info@shakespeare.lt][1] and give a discount code: **"G&S Weddings"**
+To book send email to [info@shakespeare.lt][2] and give the following discount code: **"G&S Weddings"**
 
-**[Amberton hotel][2]:**
+**[Amberton hotel][3] - located next to the Cathedral.**
 
 -Single room -- 80,10 Eur. Breakfast included.
 
@@ -43,31 +53,21 @@ _--_ Double room: 94,50\. Breakfast included.
 
 - Apartments-- 139,50 Eur. Breakfast included.
 
-To book enter a discount code: @GS  or click here: [https://booking.edreamhotels.com/lt/Booking/available-rooms/client/ambertonhotels-vilnius/hotels/105/checkin/29.07.2016/checkout/30.07.2016/rooms/1/adults/1/children/0/code/@GS][3]
+To book enter a discount code: @GS  or click here: [https://booking.edreamhotels.com/lt/Booking/available-rooms/client/ambertonhotels-vilnius/hotels/105/checkin/29.07.2016/checkout/30.07.2016/rooms/1/adults/1/children/0/code/@GS][4]
 
-**[www.comforthotel.lt][4] - **
-
-single rooms 50 EUR with breakfast.
-
-double room 57 per night with breakfast.
-
-Too book: you can use discount code: 
-
-**Other options:**
+**Besides hotels it is also possible to rent aparments through the following sites:**
 
 [http://www.skapoapartments.lt/][5] Prices from 60-70 euro.
 
-[https://www.airbnb.no/][6] from 30 euros and up
+[https://www.airbnb.no/][6] For renting aparments from locals. From 30 euros and up.
 
 As well [www.booking.com][7]
 
-Just book in the old part of Vilnius
-
-[0]: http://www.shakespeare.lt/
-[1]: http://localhost/shakespeare/html/contacts.html
-[2]: http://ambertonhotels.com/en/vilnius/
-[3]: https://booking.edreamhotels.com/lt/Booking/available-rooms/client/ambertonhotels-vilnius/hotels/105/checkin/29.07.2016/checkout/30.07.2016/rooms/1/adults/1/children/0/code/@GS
-[4]: www.comforthotel.lt
+[0]: http://comforthotel.lt/
+[1]: http://www.shakespeare.lt/
+[2]: http://localhost/shakespeare/html/contacts.html
+[3]: http://ambertonhotels.com/en/vilnius/
+[4]: https://booking.edreamhotels.com/lt/Booking/available-rooms/client/ambertonhotels-vilnius/hotels/105/checkin/29.07.2016/checkout/30.07.2016/rooms/1/adults/1/children/0/code/@GS
 [5]: http://www.skapoapartments.lt/
 [6]: https://www.airbnb.no/
 [7]: www.booking.com
