@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T21:09:38.140Z'
-dateModified: '2016-03-06T21:09:05.373Z'
+datePublished: '2016-03-07T16:06:42.265Z'
+dateModified: '2016-03-07T16:06:28.529Z'
 title: Wedding program
 author: []
 sourcePath: _posts/2016-03-06-wedding-program.md
