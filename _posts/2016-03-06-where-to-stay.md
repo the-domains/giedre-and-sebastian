@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T16:05:03.537Z'
-dateModified: '2016-03-07T12:58:52.373Z'
+datePublished: '2016-03-07T19:20:27.117Z'
+dateModified: '2016-03-07T19:19:55.015Z'
 title: Where to stay?
 author: []
 sourcePath: _posts/2016-03-06-where-to-stay.md
