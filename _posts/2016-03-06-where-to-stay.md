@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T21:13:50.238Z'
-dateModified: '2016-03-06T21:13:00.065Z'
+datePublished: '2016-03-07T10:38:52.327Z'
+dateModified: '2016-03-06T21:13:56.776Z'
 title: Where to stay?
 author: []
 sourcePath: _posts/2016-03-06-where-to-stay.md
