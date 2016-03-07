@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T20:10:22.188Z'
-dateModified: '2016-03-07T20:10:19.075Z'
+datePublished: '2016-03-07T20:14:34.155Z'
+dateModified: '2016-03-07T20:14:31.535Z'
 title: Venue- how to come
 author: []
 sourcePath: _posts/2016-03-06-venue-how-to-come.md
@@ -26,7 +26,11 @@ _type: Article
 
 ****
 
-**Driving directions**
+A maxi-taxi will be arranged from the city centre at 14:00 (local time). If you would like to join, please let us know by phone or email.
+
+****
+
+**By Taxi or Car**
 
 From the centre of Vilnius go along Kalvariju 
 street to Santariskes roundabout, turn right in the direction of Green Lakes / 
