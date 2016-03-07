@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T16:16:07.095Z'
-dateModified: '2016-03-07T16:15:54.187Z'
+datePublished: '2016-03-07T16:16:26.283Z'
+dateModified: '2016-03-07T16:16:11.653Z'
 title: What to see and do in Vilnius
 author: []
 sourcePath: _posts/2016-03-06-what-to-see-and-do-in-vilnius.md
