@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T16:06:52.310Z'
-dateModified: '2016-03-07T16:06:42.989Z'
+datePublished: '2016-03-07T16:16:07.095Z'
+dateModified: '2016-03-07T16:15:54.187Z'
 title: What to see and do in Vilnius
 author: []
 sourcePath: _posts/2016-03-06-what-to-see-and-do-in-vilnius.md
@@ -22,6 +22,8 @@ url: what-to-see-and-do-in-vilnius/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3f64639-0593-46be-b2f6-59c4002ee195.jpg)
+
 Tips: 
 
 [http://www.tripadvisor.com/Attractions-g274951-Activities-Vilnius\_Vilnius\_County.html][0]
