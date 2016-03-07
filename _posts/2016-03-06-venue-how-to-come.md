@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T20:15:38.130Z'
-dateModified: '2016-03-07T20:15:25.709Z'
+datePublished: '2016-03-07T20:17:46.220Z'
+dateModified: '2016-03-07T20:15:40.467Z'
 title: Venue- how to come
 author: []
 sourcePath: _posts/2016-03-06-venue-how-to-come.md
