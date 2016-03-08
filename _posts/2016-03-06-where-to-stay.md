@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-07T19:39:10.889Z'
-dateModified: '2016-03-07T19:39:00.352Z'
+description: We reccomend to stay in the city centre. The hotels we have listed below located in the centre of Vilnius and they have an overall good standard.
+datePublished: '2016-03-08T17:14:53.646Z'
+dateModified: '2016-03-08T17:14:09.185Z'
 title: Where to stay?
 author: []
 sourcePath: _posts/2016-03-06-where-to-stay.md
