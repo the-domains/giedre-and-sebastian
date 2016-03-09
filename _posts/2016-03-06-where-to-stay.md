@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: We reccomend to stay in the city centre. The hotels we have listed below located in the centre of Vilnius and they have an overall good standard.
-datePublished: '2016-03-08T17:14:53.646Z'
-dateModified: '2016-03-08T17:14:09.185Z'
+datePublished: '2016-03-09T22:13:08.960Z'
+dateModified: '2016-03-09T17:33:15.521Z'
 title: Where to stay?
 author: []
 sourcePath: _posts/2016-03-06-where-to-stay.md
@@ -34,7 +34,7 @@ Single rooms 50 EUR including breakfast.
 
 Double room 57 per night including breakfast.
 
-Too book you must use the following discount code: 
+Too book you must use the following discount code:  (comming soon) 
 
 **[Shakespeare hotel][1] - classical hotel located in the old town.**
 
