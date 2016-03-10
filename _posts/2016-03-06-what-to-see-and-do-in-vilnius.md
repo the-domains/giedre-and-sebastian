@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-07T20:02:48.618Z'
-dateModified: '2016-03-07T20:02:30.671Z'
+description: "Tips:\_"
+datePublished: '2016-03-10T22:58:22.701Z'
+dateModified: '2016-03-10T22:50:11.557Z'
 title: What to see and do in Vilnius
 author: []
 sourcePath: _posts/2016-03-06-what-to-see-and-do-in-vilnius.md
@@ -24,27 +24,27 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3f64639-0593-46be-b2f6-59c4002ee195.jpg)
 
-Tips: 
+**Tips: **
 
-Vilnius:
+**_Vilnius:_**
 
 [http://www.tripadvisor.com/Attractions-g274951-Activities-Vilnius\_Vilnius\_County.html][0]
 
 [https://www.likealocalguide.com/vilnius/things-to-do][1]
 
-Trakai - one of the historical capitals of Lithuania. You will see a beautiful lake and castle. Make sure to try the local "Kibinai"!
+_**Trakai **_- one of the historical capitals of Lithuania. You will see a beautiful lake and castle. Make sure to try the local "Kibinai"!
 
-Nida - beautiful white beach accessible by ferry. On the UNESCO world heritage list.
+_**Nid**__**a**_ - beautiful white beach accessible by ferry. On the UNESCO world heritage list.
 
-Palanga - Balticum's "syden". Nice wild beaches.
+_**Palanga**_ - Balticum's "syden". Nice wild beaches.
 
 Druskininkai - "City of Spa" located in the south part of Lithuania. A 2 hour drive from Vilnius. Here you can visit various Spa and health centers.
 
-Kernave - oldest capital in Lithuania. It is a small village located on the country side. 
+_**Kernave**_ - oldest capital in Lithuania. It is a small village located on the country side. 
 
-Rumsiskes - old historical museum.
+_**Rumsiskes **_- old historical museum.
 
-Learn basic lithuanian: 
+**Learn basic lithuanian: **
 
 Labas - hallo
 
