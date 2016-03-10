@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: We reccomend to stay in the city centre. The hotels we have listed below located in the centre of Vilnius and they have an overall good standard.
-datePublished: '2016-03-09T22:15:14.433Z'
-dateModified: '2016-03-09T22:15:07.052Z'
+datePublished: '2016-03-10T10:54:00.628Z'
+dateModified: '2016-03-10T10:53:50.448Z'
 title: Where to stay?
 author: []
 sourcePath: _posts/2016-03-06-where-to-stay.md
@@ -45,7 +45,11 @@ Eur 1night/ if 2 and more nigths 125 Eur. Breakfast included.
 
 To book send email to [info@shakespeare.lt][2] and give the following discount code: **"G&S Weddings"**
 
+****
+
 **[Amberton hotel][3] - located next to the Cathedral.**
+
+****
 
 -Single room -- 80,10 Eur. Breakfast included.
 
