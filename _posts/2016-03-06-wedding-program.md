@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '15:00 ceremony at the Europos parkas'
-datePublished: '2016-04-12T17:17:17.193Z'
-dateModified: '2016-04-12T17:17:10.751Z'
+datePublished: '2016-04-12T17:17:24.600Z'
+dateModified: '2016-04-12T17:17:22.316Z'
 title: Wedding program
 author: []
 sourcePath: _posts/2016-03-06-wedding-program.md
