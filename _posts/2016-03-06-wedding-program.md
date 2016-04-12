@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Coming soon
-datePublished: '2016-03-24T17:43:34.398Z'
-dateModified: '2016-03-15T15:19:03.861Z'
+description: '15:00 ceremony at the Europos parkas'
+datePublished: '2016-04-12T17:16:22.076Z'
+dateModified: '2016-04-12T17:16:21.395Z'
 title: Wedding program
 author: []
 sourcePath: _posts/2016-03-06-wedding-program.md
