@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: '15:00 ceremony at the Europos parkas'
-datePublished: '2016-04-12T17:17:24.600Z'
-dateModified: '2016-04-12T17:17:22.316Z'
+description: 30th of July 2016
+datePublished: '2016-04-15T16:14:16.791Z'
+dateModified: '2016-04-15T16:14:03.267Z'
 title: Wedding program
 author: []
 sourcePath: _posts/2016-03-06-wedding-program.md
@@ -24,9 +24,9 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56dfaa45-8545-40b3-bf5c-2b682d122b51.jpg)
 
-30th of July 2016
+Date: 30th of July 2016 
 
-15:00 ceremony at the Europos parkas
+time: 15:00 ceremony at the Europos parkas
 
 Gift tips:
 
