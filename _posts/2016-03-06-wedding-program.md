@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 30th of July 2016
-datePublished: '2016-04-15T16:14:16.791Z'
-dateModified: '2016-04-15T16:14:03.267Z'
+description: "Date: 30th of July 2016\_"
+datePublished: '2016-04-15T16:21:41.242Z'
+dateModified: '2016-04-15T16:14:23.291Z'
 title: Wedding program
 author: []
 sourcePath: _posts/2016-03-06-wedding-program.md
