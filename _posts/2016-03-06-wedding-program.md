@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Date: 30th of July 2016\_"
-datePublished: '2016-04-15T20:08:46.762Z'
-dateModified: '2016-04-15T20:08:27.376Z'
+datePublished: '2016-04-15T20:15:26.562Z'
+dateModified: '2016-04-15T20:10:04.881Z'
 title: Wedding program
 author: []
 sourcePath: _posts/2016-03-06-wedding-program.md
@@ -26,6 +26,6 @@ _type: Article
 
 Date: 30th of July 2016 
 
-time: 15:00 ceremony at the Europos parkas
+Time: 15:00 ceremony at the Europos parkas
 
 Gift tips: a) Apartment; b) car; c) or a couple of coins to our "Asia Travel Account": 4202 46 83278
